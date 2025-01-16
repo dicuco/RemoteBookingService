@@ -1,0 +1,12 @@
+# Directorios generados
+target/
+bin/
+
+# Archivos y directorios de Eclipse
+.settings/
+.classpath
+.project
+
+# Archivos específicos de IDEs o herramientas
+*.log
+*.tmp
