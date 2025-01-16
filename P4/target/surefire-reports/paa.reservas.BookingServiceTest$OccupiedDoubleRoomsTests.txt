@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: paa.reservas.BookingServiceTest$OccupiedDoubleRoomsTests
--------------------------------------------------------------------------------
-Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.112 s - in paa.reservas.BookingServiceTest$OccupiedDoubleRoomsTests
